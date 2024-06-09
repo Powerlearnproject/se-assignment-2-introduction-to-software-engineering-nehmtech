@@ -212,4 +212,4 @@ Additionally, software engineering teams should implement processes and practice
 By proactively addressing ethical concerns and embedding ethical principles into their work, software engineers can help ensure that the software they develop has positive societal impacts and minimizes potential harm or unintended negative consequences.
 
 
-## I used Claude AI for research
+## I used Claude AI for research 
